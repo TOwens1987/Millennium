@@ -1,0 +1,137 @@
+body {
+    background-color: #ffffff;
+    color: #2a1c29;
+    font-family: Gill Sans, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    margin: 0;
+  }
+  
+  a { 
+    color: #fe853b; 
+  }
+  .header {
+      background-color: #ffffff;
+      background-position: center center;
+      background-repeat: no-repeat; 
+      padding: 20px;
+      text-align: center;
+  }
+  .header img{
+      margin-bottom:30px;
+  }
+  .header nav a{
+      color: #FFFFFF;
+      margin: 0 8px;
+      text-decoration: none;
+  }
+  .header nav a:hover {
+      background: black;
+  }
+  .header nav a.active {
+      border-bottom: 3px solid black;
+  }
+.navigation {
+padding: 20px;
+background-color:#751d1d;
+font-size:20px;
+}
+  h1{
+      font-size:36px;
+      margin:0;
+  }
+  h2{
+      font-size:22px;
+      margin-top:60px;
+  }
+  h3{
+      font-size: 20px;
+      font-weight: normal;
+      margin-top: 60px;
+  }
+  h4{
+      color: #751d1d;
+      font-size:20px;
+      font-weight: normal;
+      margin: 0 0 10px 0
+  }
+  p{
+      color: #6f6f6f;
+      font-family: Helvetica, Arial, sans-serif;
+      line-height: 29px;
+      margin: 8px 0;
+  }
+  .intro{
+      background: #efefef;
+      padding: 30px;
+      text-align: center;
+      height: 10px;
+      alignment:center;
+      line-height:20px;
+  }
+  body {
+    margin: 0px;
+    padding: 0px;
+}
+div#left {
+    float: left;
+    width: 200px;
+    background-color: rgb(195, 192, 192);
+    font-family: 'Courier New', Courier, monospace;
+    Margin: 75px 200px;
+    border:solid;
+    text-align: center;
+}
+div#right {
+    float: right;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 0 150px;
+}
+div#middle {
+
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    alignment:center;
+    text-align: ;
+    font-face:times new roman;
+    font-size: 20px;
+    text-align: center;
+    padding-right:600px;
+
+}
+.footer {
+    position: left; 
+    clear: both; 
+    color: #ffffff; 
+    background-color: #751d1d; 
+    text-align:center; 
+    height: 100px;	 
+    line-height: 50px; 
+    font-size: 80%;  
+  } 
+    
+  }
+  .iframe{
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+.address {
+font-size:20px;
+font-style: "arial";
+}
+.cash {
+color: green ;
+}
+Div#Us {
+        float: right;
+        width: 150px;
+        background-color: rgb(255, 255, 255);
+        font-size: 20px;
+        text-align: justify;
+        padding: 0 390px 0 0;
+    
+}
