@@ -74,20 +74,20 @@ font-size:20px;
 }
 div#left {
     float: left;
-    width: 200px;
+    width: 10%;
     background-color: rgb(195, 192, 192);
     font-family: 'Courier New', Courier, monospace;
-    Margin: 75px 200px;
+    Margin:  200px;
     border:solid;
     text-align: center;
 }
 div#right {
     float: right;
-    width: 150px;
+    width: 30%;
     background-color: rgb(255, 255, 255);
     font-size: 20px;
     text-align: center;
-    padding: 0 150px;
+    padding: 0 0;
 }
 div#middle {
 
@@ -98,7 +98,7 @@ div#middle {
     font-face:times new roman;
     font-size: 20px;
     text-align: center;
-    padding-right:600px;
+    padding-right: 40%;
 
 }
 .footer {
